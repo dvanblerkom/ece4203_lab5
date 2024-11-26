@@ -24,7 +24,7 @@ conda activate ece4203
 
 **Objective:** 
 In this lab, you will be introduces to place and route. This stage is digital design following synthesis. It takes the netlist, efficiently places cells, and creates routes or connections between cells to implement your design. This lab consists of three parts:
-1. For the first part, you will be writing a GCD coprocessor ~~that could be included alongside a general-purpose CPU (like your final project)~~
+1. For the first part, you will be writing a GCD coprocessor that could be included alongside a general-purpose CPU
 2. You will then learn how the tools can create a floorplan, route power straps, place standard cells, perform timing optimizations, and generate a clock tree for your design
 3. You will also run place-and-route on the ALU from Lab 4.
 

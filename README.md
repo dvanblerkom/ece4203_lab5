@@ -231,7 +231,7 @@ The *Innvous* GUI offers many more tools which aid in physical design including:
 ## Place and Route with HAMMER
 
 ### Placement Constraints
-In this lab, we will provide basic placement constraints specified in the *design.yml* file. Navigate to the Lab 4 parent directory, Open up this file and locate the following text block:
+In this lab, we will provide basic placement constraints specified in the *design.yml* file. Navigate to the Lab 5 skel directory, Open up this file and locate the following text block:
 
 ```yaml
 # Placement Constraints

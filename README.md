@@ -443,7 +443,7 @@ cd build/par-rundir
 # Questions
 
 ### Question 1: ALU PnR Questions
-**1** Looking at the `openroad.log` file in `build/par-rundir`, answer these questions:
+**1** First run PnR on the ALU design. Looking at the `openroad.log` file in `build/par-rundir`, answer these questions:
 
 a) How many "sinks" (or "leaves") are there on the clock tree that was generated?
 
@@ -469,7 +469,7 @@ c) The `final_sta.summary.rpt` file has some more information about the clock tr
 </ol>
 
 ### Question 3: GCD_Coprocessor PnR
-For the GCD_Coprocessor, answer the same questions as above for the ALU:
+Run PnR on your GCD_Coprocessor design. For the GCD_Coprocessor, answer the same questions as above for the ALU:
 
 **1** Looking at the `openroad.log` file in `build/par-rundir`, answer these questions:
 

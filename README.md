@@ -11,10 +11,10 @@ Department of Electrical and Computer Engineering, Cal Poly Pomona
 
 ## Overview
 **Setup:**
-Pull lab5 from the Github Classroom into your home directory:
+Clone lab5 into your home directory:
    ```
    cd 
-   git clone ssh://git@ssh.github.com:443/dvb-ece-cpp/lab5-fa24-4203-(your github id).git
+   git clone https://github.com/dvb-ece-cpp/ece4203_lab5.git
    ```
 
 Don't forget to activate the conda environment every time you log in:
